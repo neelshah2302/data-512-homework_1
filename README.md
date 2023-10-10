@@ -24,13 +24,13 @@ https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metrics_pageviews_aggrega
 2. Data_Analysis_articles.ipynb - This notebook will be run as 2nd step and will display the final analysis like visualizations and steps for metric creation. The output of this notebook are 3 .png files for the 3 data vicualizations
 
    1. Max Average and Mean Average:
-      ![min_avg_max_avg](https://github.com/neelshah2302/data-512-homework_1/assets/122260079/21baf290-1bae-4acf-b04c-63b6bf8ed34e)
+      ![min_avg_max_avg](https://github.com/neelshah2302/data-512-homework_1/assets/122260079/a3025d31-d0ed-4f2c-8374-e67c617a6659)
 
    2. Top 10 Peak page views
-      ![top10_peaks](https://github.com/neelshah2302/data-512-homework_1/assets/122260079/42936a60-cbec-409d-85ce-3f914ad69f3b)
+      ![top10_peaks](https://github.com/neelshah2302/data-512-homework_1/assets/122260079/df20894c-702e-4533-9518-eb938fd97d82)
 
    3. Fewwst Months
-      ![fewest_months](https://github.com/neelshah2302/data-512-homework_1/assets/122260079/72ba8fc4-a30a-4f11-b235-085a6e65f4ce)
+      ![fewest_months](https://github.com/neelshah2302/data-512-homework_1/assets/122260079/9097a07a-d355-4d99-8fdd-2fd7a6dd41a6)
 
 
 # Issues or special considerations:
